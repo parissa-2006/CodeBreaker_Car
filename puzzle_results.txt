@@ -1,0 +1,5 @@
+--- Game Results ---
+Congratulations, you solved the puzzles!
+Enemies Killed: 70
+All puzzles completed!
+--------------------
